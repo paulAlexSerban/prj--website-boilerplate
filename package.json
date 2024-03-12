@@ -1,0 +1,8 @@
+{
+  "name": "prj--website-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulAlexSerban/prj--website-boilerplate",
+  "author": "paulAlexSerban <paul.alex.serban@gmail.com>",
+  "license": "MIT"
+}
